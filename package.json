@@ -1,0 +1,27 @@
+{
+  "name": "discord.js-escape",
+  "version": "1.0.0",
+  "description": "Escapes or unescapes Discord markdown",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcorc/discord.js-escape.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "type": "module",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcorc/discord.js-escape/issues"
+  },
+  "homepage": "https://github.com/rcorc/discord.js-escape#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
